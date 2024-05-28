@@ -1,0 +1,12 @@
+{
+    "name": "mengjiertest",
+    "version": "1.0.0",
+    "description": "mengjiertest",
+    "main": "index.js",
+    "scripts": {
+        "test": "cypress run"
+    },
+    "devDependencies": {
+        "cypress": "^9.7.0"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "baseUrl": "http://8.146.204.229:80:8000",
+   "integrationFolder": "cypress/integration/test",
+    "video": true,
+    "screenshotsFolder": "cypress/screenshots",
+    "videosFolder": "cypress/videos",
+    "reporter": "junit",
+    "reporterOptions": {
+      "mochaFile": "cypress/results/junit-report-[hash].xml",
+      "toConsole": false
+    }
+  }
